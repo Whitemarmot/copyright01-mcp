@@ -1,0 +1,30 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Whitemarmot/copyright01",
+  "description": "Copyright deposit API — legally timestamp and protect code, text, websites, and creative content with a Berne Convention certificate recognized in 181 countries.",
+  "repository": {
+    "url": "https://github.com/Whitemarmot/copyright01-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.copyright01.com/mcp",
+      "headers": [
+        {
+          "name": "Authorization",
+          "value": "Bearer {api_key}"
+        }
+      ],
+      "variables": {
+        "api_key": {
+          "description": "Your Copyright01 API key (starts with sk_). Get one free at https://www.copyright01.com/profil#api-keys",
+          "format": "string",
+          "isRequired": true,
+          "isSecret": true
+        }
+      }
+    }
+  ]
+}
