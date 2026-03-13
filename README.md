@@ -1,10 +1,10 @@
 # Copyright01 MCP Server
 
-Copyright deposit API — legally timestamp and protect code, text, websites, and creative content with a Berne Convention certificate recognized in 181 countries.
+Copyright deposit API — legally timestamp and protect [code](https://www.copyright01.com/en/deposit/github), [text](https://www.copyright01.com/en/deposit/text), [websites](https://www.copyright01.com/en/deposit/website), and creative content with a Berne Convention certificate recognized in 181 countries.
 
 ## What is Copyright01?
 
-[Copyright01.com](https://www.copyright01.com) creates legally binding, timestamped proof of authorship under the **Berne Convention** (recognized in 181 countries). Use this MCP server to protect original code, text, websites, social media content, and GitHub repositories directly from any AI agent.
+[Copyright01.com](https://www.copyright01.com/en) creates legally binding, timestamped proof of authorship under the **Berne Convention** (recognized in 181 countries). Use this MCP server to protect original code, text, websites, social media content, and GitHub repositories directly from any AI agent.
 
 ## Quick Setup
 
@@ -46,7 +46,7 @@ Get your API key at [copyright01.com/profil#api-keys](https://www.copyright01.co
 
 ## How It Works
 
-1. Create a free account at [copyright01.com](https://www.copyright01.com/register)
+1. Create a free account at [copyright01.com](https://www.copyright01.com/en/register)
 2. Generate an API key at [profil#api-keys](https://www.copyright01.com/profil#api-keys)
 3. Add the MCP server to your AI tool
 4. Ask your AI to protect your content — it will create a deposit and return a verification certificate
@@ -78,4 +78,5 @@ Each deposit consumes 1 credit regardless of type.
 ## License
 
 MIT
+
 
