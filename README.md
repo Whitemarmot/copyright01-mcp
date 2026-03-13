@@ -1,6 +1,6 @@
 # Copyright01 MCP Server
 
-Copyright deposit API — legally timestamp and protect [code](https://www.copyright01.com/en/deposit/github), [text](https://www.copyright01.com/en/deposit/text), [websites](https://www.copyright01.com/en/deposit/website), and creative content with a Berne Convention certificate recognized in 181 countries.
+[Copyright deposit](https://www.copyright01.com/en) API — legally timestamp and protect [code](https://www.copyright01.com/en/deposit/github), [text](https://www.copyright01.com/en/deposit/text), [websites](https://www.copyright01.com/en/deposit/website), and creative content with a Berne Convention certificate recognized in 181 countries.
 
 ## What is Copyright01?
 
@@ -78,5 +78,6 @@ Each deposit consumes 1 credit regardless of type.
 ## License
 
 MIT
+
 
 
